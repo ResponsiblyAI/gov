@@ -1,0 +1,26 @@
+site_name: Operationalizing Responsible AI
+theme:
+  name: material
+  favicon: assets/img/logo-visual.png
+  palette:
+    primary: deep purple
+  features:
+    - toc.follow
+    - header.autohide
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - tables
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+plugins: []
