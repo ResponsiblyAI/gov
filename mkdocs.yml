@@ -1,7 +1,8 @@
 site_name: Operationalizing Responsible AI
+site_url: https://gov.responsibly.ai/
 theme:
   name: material
-  favicon: assets/img/logo-visual.png
+  favicon: assets/logo-visual.png
   palette:
     primary: deep purple
   features:
