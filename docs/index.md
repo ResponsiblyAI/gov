@@ -4,6 +4,4 @@
 
 # Operationalizing Responsible AI Workshop <br> For Policymakers, Regulators and Diplomats
 
-[November 2023 - Freedom Online Coalition (FOC) - Geneva](23-foc)
-
 [August 2023 - US Congress - Washington, D.C.](23-congress)
