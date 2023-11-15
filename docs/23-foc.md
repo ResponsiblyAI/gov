@@ -32,7 +32,7 @@ This is a hands-on workshop, so participants should bring their laptop. Technica
 |-----------------|----------------------------------------------------------------------------------|
 | 8:45 | Arrival                                                          |
 | 9:00   | First session: [Balancing trade-offs in the design of AI systems](#1-balancing-trade-offs-in-the-design-of-ai-systems) |
-| 10:00        | Second session: [Deploying AI applications with foundation models & generative AI](#2-deploying-ai-applications-with-foundation-models-generative-ai) |
+| 10:20        | Second session: [Deploying AI applications with foundation models & generative AI](#2-deploying-ai-applications-with-foundation-models-generative-ai) |
 | 13:45 | Lunch                                                          |
 
 ## Sessions
