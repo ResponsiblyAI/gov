@@ -3,7 +3,7 @@ site_url: https://gov.responsibly.ai/
 nav:
   - Home: index.md
   - Congress '23: 23-congress.md
-  - FOC '23: 23-foc.md
+  - FOC November '23: 23-nov-foc.md
 theme:
   name: material
   favicon: assets/logo-visual.png
